@@ -70,6 +70,7 @@
 
 ## `📫 How to reach me`
 emomo606@naver.com
+pjs1004sky@gmail.com
 
 <br>
 <h3 align="left">Connect with me:</h3>
