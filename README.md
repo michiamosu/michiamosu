@@ -23,7 +23,7 @@
     - 유튜브 활용
     - 영상 편집 프로그램
         - KINEMASTER
-        - ADOBE Premiere Pro
+        - Adobe Premiere Pro
         - Adobe After Effects
 <br>  
 
